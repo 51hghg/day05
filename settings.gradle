@@ -1,0 +1,5 @@
+rootProject.name='day05'
+include ':app'
+include ':zy'
+include ':zy2'
+include ':zy3'
